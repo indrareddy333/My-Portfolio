@@ -15,5 +15,5 @@ This project is licensed under the MIT License - see the [MIT](https://github.co
 - This project was inspired by [The WebShala](https://youtu.be/viF2sRr0Amk?si=j43ExTHPt8tI2FqL).
 - Thanks to [The WebShala](https://youtu.be/viF2sRr0Amk?si=j43ExTHPt8tI2FqL) for the tutorial.
 # contact me
--[Email](reddyindra843@gmail.com)
--portfolio-[portfolio](https://indrareddy333.github.io/My-Portfolio/)
+- Email-reddyindra843@gmail.com
+- portfolio-[portfolio](https://indrareddy333.github.io/My-Portfolio/)
